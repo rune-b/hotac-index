@@ -41,7 +41,9 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 
 ## Tools
 
+* [HotAC Ship Builder](https://hotac-ship-builder.netlify.com/) - *Web based ship builder and campaign tracker for the Heroes of the Aturi Cluster campaign*
 * [Heroes of the Aturi Cluster AI Ship Random Generator](https://boardgamegeek.com/filepage/126554/x-wing-heroes-aturi-cluster-ai-ship-random-generat)
+* [Vassal X-Wing module](http://www.vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) - Tool to play X-Wing online. Includes extension for HotAC. 
 
 ## Components
 
