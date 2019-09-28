@@ -44,13 +44,16 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 * [HotAC Ship Builder](https://hotac-ship-builder.netlify.com/) - *Web based ship builder and campaign tracker for the Heroes of the Aturi Cluster campaign*
 * [Heroes of the Aturi Cluster AI Ship Random Generator](https://boardgamegeek.com/filepage/126554/x-wing-heroes-aturi-cluster-ai-ship-random-generat)
 * [Vassal X-Wing module](http://www.vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) - Tool to play X-Wing online. Includes extension for HotAC. 
+* [HotAC module for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=672533004)
 
 ## Components
 
 ### Terrain
 * [Star Flickers](https://www.thegamecrafter.com/games/star-flickers) - All the terrain pieces for HotAC professionally printed. Also includes rules to play the game Star Flickers. **Note:** You also need the two expansions to get a complete HotAC set.
+* [HotAC Scenery](https://combatzone-scenery.co.uk/Land/Space/HotAC-Scenery) - 3D models of the space station terrain pieces
 
 ### Misc
 * [GR-75 Proxy](https://boardgamegeek.com/filepage/164000/gr-75-proxy-heroes) - Print this file out, combine the two parts, and you have a proxy GR-75 that can be used for Heroes of the Aturi Cluster
 * [XP Tracking tokens for HotAC](https://boardgamegeek.com/filepage/150838/xp-tracking-tokens-hotac)
 * [Heroes of the Aturi Cluster Tuckboxes](https://boardgamegeek.com/filepage/126726/heroes-aturi-cluster-tuckboxes-v1) - Three tuckboxes for Pilots, Mission/Reference cards and the Minefield tokens.
+* [HotAC overlays](https://www.etsy.com/no-en/listing/483874759/hotac-overlays-10-for-use-with-x-wing) - *A series of numbered identifiers and etched arc indicators make HotAC play much easier*
