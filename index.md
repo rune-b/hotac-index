@@ -72,9 +72,16 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 
 ## Articles and Podcasts
 
-### The Shuttle Tydirium podcast
+### The Shuttle Tydirium podcast - HotAC related episodes
 * [Episode 9: Introduction to Heroes of the Aturi Cluster](https://shuttletydirium.podbean.com/e/episode-9-introduction-to-heroes-of-the-aturi-cluster/)
 * [Episode 10: Artficial Intelligence in HotAC](https://shuttletydirium.podbean.com/e/episode-10-artficial-intelligence-in-hotac/)
 * [Episode 11: Pilot progression in HotAC](https://shuttletydirium.podbean.com/e/episode-11-pilot-progression-in-hotac/)
 * [Episode 12: The Missions of HotAC](https://shuttletydirium.podbean.com/e/episode-12-the-missions-of-hotac/)
 * [Episode 18: Interview with stowaway Josh Derksen, creator of HotAC](https://shuttletydirium.podbean.com/e/episode-18-interview-with-stowaway-josh-derkin-creator-of-hotac/)
+* [Episode 21: Will the Garbage do?](https://shuttletydirium.podbean.com/e/episode-21-will-the-garbage-do/)
+* [Episode 22: The Prodigal Sullustan Returns](https://shuttletydirium.podbean.com/e/episode-22-the-prodigal-sullustan-returns/)
+* [Episode 23: Epic Discussion](https://shuttletydirium.podbean.com/e/episode-23-epic-discussion/)
+* [Episode 34: X Wing Smorgasbord](https://shuttletydirium.podbean.com/e/episode-34-x-wing-smorgasbord/)
+* [Episode 52: Turn Timers Mostly Suck](https://shuttletydirium.podbean.com/e/episode-52-turn-timers-mostly-suck/)
+* [Episode 58: I Feel a Need… A Need for CRUISE MISSILES!](https://shuttletydirium.podbean.com/e/episode-58-i-feel-a-need-a-need-for-cruise-missiles/)
+* [Episode 87: Alien Luxury Minis](https://shuttletydirium.podbean.com/e/episode-87-alien-luxury-minis/)
