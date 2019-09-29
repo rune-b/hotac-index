@@ -69,3 +69,12 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 * [XP Tracking tokens for HotAC](https://boardgamegeek.com/filepage/150838/xp-tracking-tokens-hotac)
 * [Heroes of the Aturi Cluster Tuckboxes](https://boardgamegeek.com/filepage/126726/heroes-aturi-cluster-tuckboxes-v1) - Three tuckboxes for Pilots, Mission/Reference cards and the Minefield tokens.
 * [HotAC overlays](https://www.etsy.com/no-en/listing/483874759/hotac-overlays-10-for-use-with-x-wing) - *A series of numbered identifiers and etched arc indicators make HotAC play much easier*
+
+## Articles and Podcasts
+
+### The Shuttle Tydirium podcast
+* [Episode 9: Introduction to Heroes of the Aturi Cluster](https://shuttletydirium.podbean.com/e/episode-9-introduction-to-heroes-of-the-aturi-cluster/)
+* [Episode 10: Artficial Intelligence in HotAC](https://shuttletydirium.podbean.com/e/episode-10-artficial-intelligence-in-hotac/)
+* [Episode 11: Pilot progression in HotAC](https://shuttletydirium.podbean.com/e/episode-11-pilot-progression-in-hotac/)
+* [Episode 12: The Missions of HotAC](https://shuttletydirium.podbean.com/e/episode-12-the-missions-of-hotac/)
+* [Episode 18: Interview with stowaway Josh Derksen, creator of HotAC](https://shuttletydirium.podbean.com/e/episode-18-interview-with-stowaway-josh-derkin-creator-of-hotac/)
