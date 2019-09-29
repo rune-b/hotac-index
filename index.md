@@ -21,6 +21,10 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 * [HotAC 2.0 Playtest #2](https://www.facebook.com/groups/872507722883025/permalink/1398625470271245/) 
 * [HotAC 2.0](https://www.reddit.com/r/HotAC/comments/ct1c2b/hotac_20/) by Tzapquiel
 
+
+### Extra rules
+* [X-Wing HotAC Module - Search and Rescue](https://www.thingiverse.com/thing:2899013) - Rules for rescuing shot down pilots
+
 ## Campaigns
 
 ### First Edition
@@ -58,6 +62,7 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 ### Terrain
 * [Star Flickers](https://www.thegamecrafter.com/games/star-flickers) - All the terrain pieces for HotAC professionally printed. Also includes rules to play the game Star Flickers. **Note:** You also need the two expansions to get a complete HotAC set.
 * [HotAC Scenery](https://combatzone-scenery.co.uk/Land/Space/HotAC-Scenery) - 3D models of the space station terrain pieces
+* [X-Wing HotAC - Terrain](https://www.thingiverse.com/thing:1757441) - Files for 3D printing the HotAC terrain components
 
 ### Misc
 * [GR-75 Proxy](https://boardgamegeek.com/filepage/164000/gr-75-proxy-heroes) - Print this file out, combine the two parts, and you have a proxy GR-75 that can be used for Heroes of the Aturi Cluster
