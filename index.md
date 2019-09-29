@@ -25,6 +25,10 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 ### Extra rules
 * [X-Wing HotAC Module - Search and Rescue](https://www.thingiverse.com/thing:2899013) - Rules for rescuing shot down pilots
 
+### AI
+
+* [HotAC AI Cards](https://imgur.com/gallery/Amdm8) - Gallery with AIs for a lot of different ships (First Edition)
+
 ## Campaigns
 
 ### First Edition
@@ -52,6 +56,7 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 
 ### Downloadable tools
 * [Heroes of the Aturi Cluster AI Ship Random Generator](https://boardgamegeek.com/filepage/126554/x-wing-heroes-aturi-cluster-ai-ship-random-generat)
+* [Custom templates for use with the Heroes of the Aturi Cluster X-Wing Miniatures Campaign](http://xwing.dyersdesign.com/wp/hotac/) - Photoshop templates
 
 ### Online play
 * [Vassal X-Wing module](http://www.vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) - Tool to play X-Wing online. Includes extension for HotAC. 
@@ -63,6 +68,7 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 * [Star Flickers](https://www.thegamecrafter.com/games/star-flickers) - All the terrain pieces for HotAC professionally printed. Also includes rules to play the game Star Flickers. **Note:** You also need the two expansions to get a complete HotAC set.
 * [HotAC Scenery](https://combatzone-scenery.co.uk/Land/Space/HotAC-Scenery) - 3D models of the space station terrain pieces
 * [X-Wing HotAC - Terrain](https://www.thingiverse.com/thing:1757441) - Files for 3D printing the HotAC terrain components
+* [X-Wing Miniatures Heroes of the Aturi Cluster 3D Printed Battlements and Space Station](https://www.etsy.com/listing/496509592/x-wing-miniatures-heroes-of-the-aturi)
 
 ### Misc
 * [GR-75 Proxy](https://boardgamegeek.com/filepage/164000/gr-75-proxy-heroes) - Print this file out, combine the two parts, and you have a proxy GR-75 that can be used for Heroes of the Aturi Cluster
@@ -70,7 +76,14 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 * [Heroes of the Aturi Cluster Tuckboxes](https://boardgamegeek.com/filepage/126726/heroes-aturi-cluster-tuckboxes-v1) - Three tuckboxes for Pilots, Mission/Reference cards and the Minefield tokens.
 * [HotAC overlays](https://www.etsy.com/no-en/listing/483874759/hotac-overlays-10-for-use-with-x-wing) - *A series of numbered identifiers and etched arc indicators make HotAC play much easier*
 
-## Articles and Podcasts
+## Articles, Reviews and Podcasts
+
+* [Heroes of the Aturi Cluster (Part I)](https://www.sunderedrealm.com/index.php/2018/09/12/heroes-of-the-aturi-cluster-part-i/) - Review of HotAC on the Sundered Realm blog
+* [Making Up: X-Wing Heroes of the Aturi Cluster](https://playerelimination.com/2018/07/02/making-up-x-wing-heroes-of-the-aturi/) - Review of HotAC on the Player Elimination blog
+
+### Videos
+* [Board Game Review 25: Heroes of the Aturi Cluster](https://www.youtube.com/watch?v=PXix94PQXdM) - Failroad Express
+* [X-Wing Campaign Heroes of the Aturi Cluster Mission 1](https://www.youtube.com/watch?v=jSwgmLfUPC8) - Video playtrhough by Cool Guys Nation
 
 ### The Shuttle Tydirium podcast - HotAC related episodes
 * [Episode 9: Introduction to Heroes of the Aturi Cluster](https://shuttletydirium.podbean.com/e/episode-9-introduction-to-heroes-of-the-aturi-cluster/)
