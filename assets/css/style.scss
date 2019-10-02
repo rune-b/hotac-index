@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-span.fb :before{
+span.fb::before{
     content: 'fb'
 }
