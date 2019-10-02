@@ -9,7 +9,7 @@ If you find any errors, or have suggestions for content to be added, please repo
 
 ## Communities
 
-* [Heroes of the Aturi Cluster Custom Campaigns, Missions, & Rules](https://www.facebook.com/groups/872507722883025/) facebook group
+* <span class='fb'/>[Heroes of the Aturi Cluster Custom Campaigns, Missions, & Rules](https://www.facebook.com/groups/872507722883025/) facebook group
 * [r/HotAC](https://www.reddit.com/r/HotAC/)
 
 ## Rules
