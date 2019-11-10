@@ -18,6 +18,7 @@ If you find any errors, or have suggestions for content to be added, please repo
 There are several ongoing efforts to convert HotAC to X-Wing Second Edition. These are all works in progress.
 * [HotAC 2.0 Playtest #2](https://www.facebook.com/groups/872507722883025/permalink/1398625470271245/) 
 * [HotAC 2.0](https://www.reddit.com/r/HotAC/comments/ct1c2b/hotac_20/) by Tzapquiel
+* [Heroes of the Aturi Cluster Second Edition](https://github.com/Hinny/HotAC-2nd-edition) by Henning Roos
 
 
 ### Extra rules
