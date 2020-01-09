@@ -1,4 +1,4 @@
-This is an attempt to collect links to all the various content that have been created for the *Heroes of the Aturi Cluster* campaign for *X-Wing*.
+This is an attempt to collect links to all the various content that have been created for the *Heroes of the Aturi Cluster* campaign for *X-Wing* by Josh Derksen.
 
 If you find any errors, or have suggestions for content to be added, please report it [here](https://github.com/rune-b/hotac-index/issues)
 
@@ -6,6 +6,10 @@ If you find any errors, or have suggestions for content to be added, please repo
 * [Heroes of the Aturi Cluster – Co-operative Rebel Campaign](http://dockingbay416.com/campaign/) 
 * [FAQ](http://dockingbay416.com/campaign/faq/) 
 * [Forums](http://dockingbay416.com/forums/forum/heroes-of-the-aturi-cluster/)
+* [Mirror of the HotAC WebSite from the Internet Archive](https://web.archive.org/web/20191025143722/https://dockingbay416.com/campaign/)
+
+## Files
+* [HotAC 0.7 files direct Dropbox link](https://www.dropbox.com/sh/idahlgp7j63b5rn/AADvW3D4JMnZ_IL2orWza1J1a?dl=0&fbclid=IwAR22CYL929KHvZCWoAkgB3-Nq9e3U7E2memoY6HqlAA0c2jSLgOWQpSFdDY)
 
 ## Communities
 
@@ -16,9 +20,10 @@ If you find any errors, or have suggestions for content to be added, please repo
 
 ### Second Edition Conversions
 There are several ongoing efforts to convert HotAC to X-Wing Second Edition. These are all works in progress.
-* [HotAC 2.0 Playtest #2](https://www.facebook.com/groups/872507722883025/permalink/1398625470271245/) 
+* [HotAC 2.0 Playtest #2](https://www.facebook.com/groups/872507722883025/permalink/1398625470271245/) - joint effort by people on the Facebook group. Seemingly abandoned.
 * [HotAC 2.0](https://www.reddit.com/r/HotAC/comments/ct1c2b/hotac_20/) by Tzapquiel
 * [Heroes of the Aturi Cluster Second Edition](https://github.com/Hinny/HotAC-2nd-edition) by Henning Roos
+* [HotAC 2.07](https://drive.google.com/drive/u/0/folders/1FuTxsSqbqqsiPm7Ayo5aX2daVloQ3RhM?fbclid=IwAR22CYL929KHvZCWoAkgB3-Nq9e3U7E2memoY6HqlAA0c2jSLgOWQpSFdDY) by Shaun Tiernan
 
 
 ### Extra rules
