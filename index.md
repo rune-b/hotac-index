@@ -9,7 +9,7 @@ If you find any errors, or have suggestions for content to be added, please repo
 * [Mirror of the HotAC WebSite from the Internet Archive](https://web.archive.org/web/20191025143722/https://dockingbay416.com/campaign/)
 
 ## Files
-* [HotAC 0.7 files direct Dropbox link](https://www.dropbox.com/sh/idahlgp7j63b5rn/AADvW3D4JMnZ_IL2orWza1J1a?dl=0&fbclid=IwAR22CYL929KHvZCWoAkgB3-Nq9e3U7E2memoY6HqlAA0c2jSLgOWQpSFdDY)
+* [HotAC 0.7 files direct Dropbox link](https://www.dropbox.com/sh/idahlgp7j63b5rn/AADvW3D4JMnZ_IL2orWza1J1a)
 
 ## Communities
 
@@ -39,6 +39,7 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 
 * [Battlestar Pallas](https://boardgamegeek.com/filepage/132284/battlestar-pallas-heroes-aturi-cluster-campaign) - *The gist of this campaign is that it outfits the players with a mothership, a captured Gozanti carrier, that they can outfit and strengthen over the course of the missions and take into battle on several occasions.*
 * [Defenders of the Empire](https://boardgamegeek.com/filepage/135532/defenders-empire) - Imperial Campaign
+* [Clone Wars Campaign Contest submission](https://www.dropbox.com/sh/lrdbt7h71kk31mp/AACIdCiTxdb-D2rrcCpeZim0a) - 4 Republic campaigns submitted for a contest on the facebook group
 
 ### Second Edition
 * [Flight Group Alpha - An Imperial Co-Operative Campaign](https://boardgamegeek.com/filepage/161035/flight-group-alpha-imperial-co-operative-campaign) - *Developed to faithfully follow the storyline of the award-winning TIE Fighter PC game, this campaign follows a group of academy pilots as they struggle to become aces in the Imperial Navy.*
