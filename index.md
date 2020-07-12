@@ -58,6 +58,7 @@ There are several ongoing efforts to convert HotAC to X-Wing Second Edition. The
 * [X-Wing AI (First Edition)](http://x-wing-ai.com/index.htm) - Online AI tool, similar to the HotAC AI
 * [X-Wing AI (Second Edition)](http://x-wing-ai.com/index2.htm) - Online AI tool, similar to the HotAC AI
 * [HotAC Ship Builder](https://hotac-ship-builder.netlify.com/) - *Web based ship builder and campaign tracker for the Heroes of the Aturi Cluster campaign*
+* [X-Wing AI app](https://xwing.app) - iPhone app based on the HotAC/FGA AI
 
 ### Downloadable tools
 * [Heroes of the Aturi Cluster AI Ship Random Generator](https://boardgamegeek.com/filepage/126554/x-wing-heroes-aturi-cluster-ai-ship-random-generat)
