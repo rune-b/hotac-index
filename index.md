@@ -55,6 +55,26 @@ There have been several efforts to convert HotAC to X-Wing Second Edition. The f
 * [T-70 X-Wing](https://boardgamegeek.com/filepage/131472/t70-x-wing-heroes-aturi-cluster-player-card)
 * [Stat Cards for T-70 X-Wing, Arc 170, Skurgg Bomber, and K-Wing](https://boardgamegeek.com/filepage/166190/heroes-aturi-cluster-stat-cards-t-70-x-wing-arc-17)
 
+## Online play
+
+### Vassal
+* [Vassal X-Wing module](http://www.vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) - Tool to play X-Wing online. Includes extension for HotAC. 
+
+### Tabletop Simulator
+
+* [TTS Workshop - HotAC items](https://steamcommunity.com/workshop/browse/?appid=286160&searchtext=hotac)
+
+#### First Edition
+
+* [X-wing Co-op Campaign - Heroes of the Aturi Cluster [HotAC] (with Automated Movement/AI)](https://steamcommunity.com/sharedfiles/filedetails/?id=672533004)
+* [XWing Heroes of the Aturi Cluster Pandamonium Addition](https://steamcommunity.com/sharedfiles/filedetails/?id=1283284830)
+
+#### Second Edition
+
+* [X-Wing 2.0 Unified HotAC](https://steamcommunity.com/sharedfiles/filedetails/?id=2059870782)
+* [X-wing Unified 2.0 campagne FR](https://steamcommunity.com/sharedfiles/filedetails/?id=2087073289) - French translation
+
+
 ## Tools
 
 ### Online tools
@@ -66,10 +86,6 @@ There have been several efforts to convert HotAC to X-Wing Second Edition. The f
 ### Downloadable tools
 * [Heroes of the Aturi Cluster AI Ship Random Generator](https://boardgamegeek.com/filepage/126554/x-wing-heroes-aturi-cluster-ai-ship-random-generat)
 * [Custom templates for use with the Heroes of the Aturi Cluster X-Wing Miniatures Campaign](http://xwing.dyersdesign.com/wp/hotac/) - Photoshop templates
-
-### Online play
-* [Vassal X-Wing module](http://www.vassalengine.org/wiki/Module:Star_Wars:_X-Wing_Miniatures_Game) - Tool to play X-Wing online. Includes extension for HotAC. 
-* [HotAC module for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=672533004)
 
 ## Components
 
