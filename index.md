@@ -113,11 +113,13 @@ There have been several efforts to convert HotAC to X-Wing Second Edition. The f
 
 ## Articles, Reviews and Podcasts
 
+- [_Aturi Cluster_ Wookiepedia article](https://starwars.fandom.com/wiki/Aturi_Cluster)
 - [Heroes of the Aturi Cluster (Part I)](https://www.sunderedrealm.com/index.php/2018/09/12/heroes-of-the-aturi-cluster-part-i/) - Review of HotAC on the Sundered Realm blog
 - [Making Up: X-Wing Heroes of the Aturi Cluster](https://playerelimination.com/2018/07/02/making-up-x-wing-heroes-of-the-aturi/) - Review of HotAC on the Player Elimination blog
 - [X-Wing – Flying Solo Part 4: Interview with Josh Derksen](https://www.goonhammer.com/x-wing-flying-solo-part-4-interview-with-josh-derksen/)
 - [Tabletop Tuesday – Heroes of the Aturi Cluster](http://www.d20radio.com/main/tabletop-tuesday-heroes-of-the-aturi-cluster/) - review of HotAC on d20 Radio
 - [Interrogation Droid- Josh Derksen, creator of Heroes of the Aturi Cluster](http://www.d20radio.com/main/interrogation-droid-josh-derksen-creator-of-heroes-of-the-aturi-cluster/) - Interview with Josh Derksen on d20 Radio
+- [Making Up: X-Wing Heroes of the Aturi Cluster](https://playerelimination.com/2018/07/02/making-up-x-wing-heroes-of-the-aturi/) - Review on Player Elimination blog
 
 ### Videos
 
