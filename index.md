@@ -52,6 +52,7 @@ There have been several efforts to convert HotAC to X-Wing Second Edition. The f
 ### Second Edition
 
 - [Flight Group Alpha - An Imperial Co-Operative Campaign](https://boardgamegeek.com/filepage/161035/flight-group-alpha-imperial-co-operative-campaign) - _Developed to faithfully follow the storyline of the award-winning TIE Fighter PC game, this campaign follows a group of academy pilots as they struggle to become aces in the Imperial Navy._
+- [Omega One - a Flight Group Alpha Expansion](https://boardgamegeek.com/filepage/214165/omega-one-flight-group-alpha-expansion) - _Allows you to develop the Lambda Shuttle that appears in many missions in the Flight Group Alpha campaign_
 
 ## Player Ships
 
