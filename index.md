@@ -1,4 +1,4 @@
-This is an attempt to collect links to all the various content that have been created for the _Heroes of the Aturi Cluster_ campaign for _X-Wing_ by Josh Derksen.
+This is an attempt to collect links to all the various content that have been created for the _Heroes of the Aturi Cluster_ campaign for [_X-Wing_](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) by Josh Derksen.
 
 If you find any errors, or have suggestions for content to be added, please report it [here](https://github.com/rune-b/hotac-index/issues)
 
@@ -60,6 +60,7 @@ There have been several efforts to convert HotAC to X-Wing Second Edition. The f
 - [ARC-170](https://boardgamegeek.com/filepage/147747/hotac-arc-170)
 - [T-70 X-Wing](https://boardgamegeek.com/filepage/131472/t70-x-wing-heroes-aturi-cluster-player-card)
 - [Stat Cards for T-70 X-Wing, Arc 170, Skurgg Bomber, and K-Wing](https://boardgamegeek.com/filepage/166190/heroes-aturi-cluster-stat-cards-t-70-x-wing-arc-17)
+- [Large collection of over 50 custom player ships](https://drive.google.com/drive/folders/1WcKAKy_gH6kUqo4zM55TrGO23s1-bDQf)
 
 ## Online play
 
