@@ -15,7 +15,7 @@ If you find any errors, or have suggestions for content to be added, please repo
 
 ## Second Edition
 
-- [HotAC 2.07](https://drive.google.com/drive/u/0/folders/1FuTxsSqbqqsiPm7Ayo5aX2daVloQ3RhM?fbclid=IwAR22CYL929KHvZCWoAkgB3-Nq9e3U7E2memoY6HqlAA0c2jSLgOWQpSFdDY) by Shaun Tiernan
+- [HotAC 2.07](https://drive.google.com/drive/folders/1FuTxsSqbqqsiPm7Ayo5aX2daVloQ3RhM) by Shaun Tiernan. Also includes the *Ground Assault* expansion by Peter Dolan
 
 ## Communities
 
